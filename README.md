@@ -34,6 +34,10 @@ DECISION-TREE MODEL 2
 
 
 
+
+
+
+
 CONFUSION MATRIX
 
 
@@ -42,3 +46,12 @@ CONFUSION MATRIX
 
 
 ![Screenshot_CONFUSION_MATRIX_2](https://user-images.githubusercontent.com/35908804/190482858-042ec993-fe23-42f8-836d-523184b83a08.jpg)
+
+
+
+
+
+DECISION TREE MODEL 3
+
+
+
