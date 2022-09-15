@@ -17,3 +17,9 @@ CONFUSION MATRIX
 
 
 ![Screenshot_Confusion_Matrix](https://user-images.githubusercontent.com/35908804/190480833-6af26e20-c6ca-481e-87a8-08c7f5e10521.jpg)
+
+
+
+
+
+DECISION-TREE MODEL 2
