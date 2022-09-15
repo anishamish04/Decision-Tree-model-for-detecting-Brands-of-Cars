@@ -23,3 +23,8 @@ CONFUSION MATRIX
 
 
 DECISION-TREE MODEL 2
+
+
+
+
+![Screenshot_DECISION-TREE2](https://user-images.githubusercontent.com/35908804/190481957-4f0177b6-676a-4df4-858f-236437c18763.jpg)
