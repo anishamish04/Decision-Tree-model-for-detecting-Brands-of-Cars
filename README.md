@@ -28,3 +28,17 @@ DECISION-TREE MODEL 2
 
 
 ![Screenshot_DECISION-TREE2](https://user-images.githubusercontent.com/35908804/190481957-4f0177b6-676a-4df4-858f-236437c18763.jpg)
+
+
+
+
+
+
+CONFUSION MATRIX
+
+
+
+
+
+
+![Screenshot_CONFUSION_MATRIX_2](https://user-images.githubusercontent.com/35908804/190482858-042ec993-fe23-42f8-836d-523184b83a08.jpg)
