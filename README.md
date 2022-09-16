@@ -55,6 +55,21 @@ DECISION TREE MODEL 3
 
 
 
+![Screenshot_DECISION_TREE_3](https://user-images.githubusercontent.com/35908804/190537224-27373ca3-417a-4140-aa12-2f80890d6dae.jpg)
+
+
+
+
+
+CONFUSION MATRIX
+
+
+
+
+![CONFUSION_MATRIX_3](https://user-images.githubusercontent.com/35908804/190537244-c6c4e891-cdd0-4ca8-b517-b857efb98835.jpg)
+
+
+
 
 
 DECISION TREE 4
