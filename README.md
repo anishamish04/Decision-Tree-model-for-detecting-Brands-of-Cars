@@ -93,3 +93,20 @@ CONFUSION MATRIX
 ![CONFUSION_MATRIX_4](https://user-images.githubusercontent.com/35908804/190537002-1ef28190-ba7a-4683-bc7f-3e13dc8a923d.jpg)
 
 
+TEST TREE
+
+
+
+![TEST_TREE](https://user-images.githubusercontent.com/35908804/190537643-6d2c18a9-a276-4a1e-b4bb-228243c3b76f.jpg)
+
+
+
+
+
+CONFUSION MATRIX
+
+
+
+
+![CONFUSION_mATRIX_TEST_TREE](https://user-images.githubusercontent.com/35908804/190537659-3d055d7d-3904-4926-8e25-1df5b79e6158.jpg)
+
